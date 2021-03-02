@@ -1,0 +1,2 @@
+Antes de tudo, nem todas as funções apresentadas nas páginas do sistema foram configuradas;
+Em suma, considerando os requisitos propostos para a tividade as páginas a seguir tem as funções configuradas: Login, Registro, Dashboard, Departamentos
