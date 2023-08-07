@@ -1,119 +1,159 @@
-![banner](https://raw.githubusercontent.com/lukreitor/lukreitor/master/PicsArt_07-21-08.59.54.jpg)
+<!-- <p align="center"><a href="https://lukreitor.github.io/linkpe"><img alt="linkpe app" src="https://raw.githubusercontent.com/lukreitor/properties_managment_asp_net_core_7/main/img/logo.png" width="300vw"/></a></p>
+<p align="center">
+	<a href="https://github.com/lukreitor"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
+	<a href="https://github.com/lukreitor/linkpe/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/PtPrashantTripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/releases"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/PtPrashantTripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PtPrashantTripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://ptprashanttripathi.github.io/linkpe"><img alt="Website Status" src="https://img.shields.io/website/http/ptprashanttripathi.github.io/linkpe.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/ptprashanttripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/network/members"><img alt="forks-shield" src="https://img.shields.io/github/forks/ptprashanttripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/issues"><img alt="issues-shield" src="https://img.shields.io/github/issues/ptprashanttripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/graphs/contributors"><img alt="contributors-shield" src="https://img.shields.io/github/contributors/ptprashanttripathi/linkpe.svg?style=flat-square"/></a>
+	<a href="https://github.com/PtPrashantTripathi/linkpe/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/PtPrashantTripathi/linkpe/total.svg?style=flat-square"/></a>
+</p> -->
+<p align="center">
+	<a href="https://lukreitor.github.io/properties_managment_asp_net_core_7">View Demo</a>·
+	<a href="https://github.com/lukreitor/properties_managment_asp_net_core_7/issues/new/choose">Report Bug</a>·
+	<a href="https://github.com/lukreitor/properties_managment_asp_net_core_7/issues/new/choose">Request Feature</a>
+</p>
+<p align="center">
+	<i>Loved the tool? Please consider <a href="https://paypal.me/lukreitor/100">donating</a> 💸 to help it improve!</i><br>
+	<a href="https://paypal.me/lukreitor"><img height='23' src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="Donate"/></a>
+	<a href='https://ko-fi.com/lukreitor' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' /></a>
+	<a href="https://www.buymeacoffee.com/LuKreitor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" /></a>
+	<a href="https://ptprashanttripathi.github.io/linkpe?pa=pt1998@ybl&pn=Pt.+Prashant+Tripati" target="_blank"><img src="https://raw.githubusercontent.com/PtPrashantTripathi/linkpe/main/img/linkpebadge.svg" alt="Support Via UPI" height="23" style="border-radius:1px" /></a>
+</p>
+
+## About
+
+The API is a PHP project to manage employeers
+
+## 🚀 Screenshot
+
+![APIS](img_1.jpeg)
+![APIS](img_2.jpeg)
+
+> Try the app: [TRY_API](https://API.nothosted)
+
+## 🧐 Features
+
+- **Use anywhere, browser**
+- _100% Free_ 😍
+- _100% Secure_ 🔐
+- _Give Suport_ 👉
+- _No Hidden Secrets_ 🚫
+- _Set Your Own Goals_ 💰
+- _No Data Storage_ 🎉
+- _Simple Interface_ 💥
+- _Supports JSON and XML_ ✅
+- _Best alternative for JAVA APIS_
+
+## 🛠️ Installation Steps
+
+1. Download directly from github (and unpack) or Clone the repository
+
+```bash
+git clone https://github.com/lukreitor/properties_managment_asp_net_core_7
+```
+
+2. Open the Project in Visual Studio:
+
+```bash
+Launch Visual Studio and go to File > Open > Project/Solution. Navigate to the directory where you cloned the repository and select the solution file with the .sln extension (e.g., properties_managment_asp_net_core_7.sln).
+```
+
+3. Restore Dependencies:
+
+```bash
+Once the project is opened, right-click on the solution in the Solution Explorer, and choose Restore NuGet Packages. This will download and restore the required NuGet packages for the project.
+```
+
+4. Set up the Database:
+
+```bash
+The project might be using a database, so you'll need to set it up. Look for a file named appsettings.json in the project (usually under the PropertiesManagement folder) and update the connection string according to your database setup.
+```
+
+5. Run the Application:
+
+```bash
+Select the appropriate startup project by right-clicking on the project you want to run (usually named PropertiesManagement or similar) and choose Set as StartUp Project. Then, press F5 or click the Start Debugging button to run the application.
+```
+
+6. Access the Application:
+
+```bash
+Once the application is running, it should open in your web browser. If it doesn't, check the output window in Visual Studio for any error messages.
+```
+
+🌟 then wallah! You are all set.
+
+## Usage
+
+change {variable} and use as an js api
+
+```js
+the apis are on the image
+```
+
+## 🍰 Contributing
+
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request]( https://github.com/lukreitor/properties_managment_asp_net_core_7/compare).
+
+Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
+
+## 💻 Built with
+
+- [.NET](https://dotnet.microsoft.com/pt-br/)
+- [Visual Studio](https://visualstudio.microsoft.com)
+
+## 🙏 Support
+
+<p align="left">
+<a href="https://www.paypal.me/lukreitor"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile"/>
+</a>
+
+<a href="link to website">
+<img src="image of website" alt="image of my website of the project"/>
+</a>
+</p>
+<p align="left">
+  <a href='https://ko-fi.com/lukreitor' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for lukreitor' />
+  </a>
+  <a href="https://www.buymeacoffee.com/LuKreitor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+</p>
+
+## Contributors ✨
+
+<table>
+	<tr>
+		<th align="center">
+				<a href="https://github.com/lukreitor">
+					<sub><b>Lucas Martins da Silva Sena</b></sub>
+				</a>
+		</th>
+  	</tr>
+ 	<tr>
+		<td align="center">
+			<a href="https://github.com/lukreitor">
+				<img src="https://avatars.githubusercontent.com/lukreitor" width="100px" alt="Your Avatar"/>
+			</a>
+		</td>
+	</tr>
+</table>
+
+## Questions and Feedback
+
+**Please contact me using one of the following:**
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lukreitor) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasmartins-2001-2018/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas15_m.s/) 
 [<img src = "https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/lukreitor/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100008448453915) 
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/username)  
-![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi&style=flat-square)
 
-## Hello World! 👋
-
-<!--
-**lukreitor/lukreitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-### Glad to see you here! 🤩 &nbsp; 
-
->I am looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
-
-
-
----
-
-### Currently working on:
-- [PhotosCP]
-- [TicketRU Android]
-
-### Talking about Personal Stuffs:
-
-- 👨‍💻 Portfolio  [lukreitor.github.io](https://lukreitor.github.io)
-- 👨🎓 Experience Level : 3+ years
-- 💻 I’m Currently Watching : One piece 🚀
--  💻 I’m Currently Reading : One piece 🚀
- 💻 I’ll Watch : One piece: The Serie 🚀
-- 🧩 Interested In : Technology, Astronomy, Fun
--💡 Equipments : Sarcasm, Knowledge, .Net, Java, nodejs, PHP, webdev
--⚡ Fun Fact : **Prefer Chai ☕  over coffee**
-- 📝 [Resume](https://lucassena.hackerresume.io/857b5016-3f86-4798-a1de-cae950febf6f)
-- 💬 Ask me about anything [here](https://github.com/lukreitor/lukreitor/discussions/3) ! I am happy to help.
-
-
-### How to reach me:
-
-- 📧 Email: contato@nerding.com.br
-- 📧 Email: lucassena@alunos.utfpr.edu.br
-- 📧 Email: auxlucas57@gmail.com
-
-### Tools:
-- Innoveo Business Canvas
-- Trello / Jira
-- MS Office, Teams, LibryOffice
-- Windows / Linux
-
-
-#### Languages:
-
-- Java
-- SpringBoot
-- JavaScript (NodeJS)
-- React
-- Vite
-- PHP
-- Laravel
-- SQL Server/MySQL/Postgres/H2/
-- Vue
-- JQuery
-- Sass
-- Bootstrap / Materialize
-- React Bootstrap
-- MVC
-- JPA
-- LaTeX
-- Lumen
-- Arduino
-
-#### Learning:
-
-- React Native
-- Svelthe
-- Golang
-- .Net Core / Asp .Net
-- Machine Learning
-- Angular
-
-#### Wanting to Learn:
-
-- Rust
-- Deno
-- Flutter
-- Typescript
-- Machine Learning
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukreitor&show_icons=true&locale=en&layout=compact" alt="lukreitor" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukreitor&show_icons=true&locale=en" alt="lukreitorstats" /></p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/PtPrashantTripathi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lukreitor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lukreitor&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+<p align="center">  
+<hr>Developed with ❤️ in Brazil 🇮🇳 
 </p>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
