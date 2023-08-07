@@ -105,8 +105,9 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 ## 💻 Built with
 
-- [.NET](https://dotnet.microsoft.com/pt-br/)
+- [PHP]([https://dotnet.microsoft.com/pt-br/](https://www.php.net))
 - [Visual Studio](https://visualstudio.microsoft.com)
+- [XAMPP] ([https://www.apachefriends.org])
 
 ## 🙏 Support
 
