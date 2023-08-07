@@ -61,16 +61,16 @@ The API is a PHP project to manage employeers
 
 1. **Clone the Repository:** 
 
-   Open your terminal and run the following command to clone the repository:
+   	Open your terminal and run the following command to clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/project-name.git
+   	```bash
+   	git clone https://github.com/your-username/project-name.git
 
 2. **Navigate to Project Directory:** 
 
-```bash
-cd project-name
-```
+	```bash
+	cd project-name
+	```
 
 3. **Install Dependencies:** 
 
