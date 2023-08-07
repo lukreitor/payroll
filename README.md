@@ -31,7 +31,7 @@ The API is a PHP project to manage employeers
 
 ## 🚀 Screenshot
 
-![APIS](payroll/payroll/Imagens do Projeto/Captura de Tela (144).png)
+![DASHBOARD]([payroll/payroll/Imagens do Projeto/Captura de Tela (144).png](https://github.com/lukreitor/payroll/blob/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(144).png))
 ![APIS](img_2.jpeg)
 
 > Try the app: [TRY_API](https://API.nothosted)
