@@ -40,7 +40,7 @@ The API is a PHP project to manage employeers
 ![DASHBOARD 150](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(150).png)
 ![DASHBOARD 151](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(151).png)
 ![DASHBOARD 152](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(152).png)
-![APIS](img_2.jpeg)
+
 
 > Try the app: [TRY_API](https://API.nothosted)
 
@@ -59,41 +59,50 @@ The API is a PHP project to manage employeers
 
 ## 🛠️ Installation Steps
 
-1. Download directly from github (and unpack) or Clone the repository
+1. **Clone the Repository:** 
+
+   Open your terminal and run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/project-name.git
+
+2. **Navigate to Project Directory:** 
 
 ```bash
-git clone https://github.com/lukreitor/properties_managment_asp_net_core_7
+cd project-name
 ```
 
-2. Open the Project in Visual Studio:
+3. **Install Dependencies:** 
 
 ```bash
-Launch Visual Studio and go to File > Open > Project/Solution. Navigate to the directory where you cloned the repository and select the solution file with the .sln extension (e.g., properties_managment_asp_net_core_7.sln).
+composer install
 ```
 
-3. Restore Dependencies:
+4. **Environment Configuration:**
+   
+Rename the .env.example file to .env and configure the database connection settings and other environment variables according to your setup.
+
+5. **Generate Application Key:** 
 
 ```bash
-Once the project is opened, right-click on the solution in the Solution Explorer, and choose Restore NuGet Packages. This will download and restore the required NuGet packages for the project.
+php artisan key:generate
 ```
 
-4. Set up the Database:
+6. **Run Migrations:** 
 
 ```bash
-The project might be using a database, so you'll need to set it up. Look for a file named appsettings.json in the project (usually under the PropertiesManagement folder) and update the connection string according to your database setup.
+php artisan migrate
 ```
 
-5. Run the Application:
+7. **Start the Development Server:** 
 
 ```bash
-Select the appropriate startup project by right-clicking on the project you want to run (usually named PropertiesManagement or similar) and choose Set as StartUp Project. Then, press F5 or click the Start Debugging button to run the application.
+php artisan serve
 ```
 
-6. Access the Application:
+8. **Acess the Application:** 
 
-```bash
-Once the application is running, it should open in your web browser. If it doesn't, check the output window in Visual Studio for any error messages.
-```
+Open your web browser and navigate to http://127.0.0.1:8000. You should see the application's homepage.
 
 🌟 then wallah! You are all set.
 
