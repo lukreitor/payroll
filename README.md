@@ -32,6 +32,14 @@ The API is a PHP project to manage employeers
 ## 🚀 Screenshot
 
 ![DASHBOARD](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(144).png)
+![DASHBOARD 145](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(145).png)
+![DASHBOARD 146](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(146).png)
+![DASHBOARD 147](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(147).png)
+![DASHBOARD 148](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(148).png)
+![DASHBOARD 149](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(149).png)
+![DASHBOARD 150](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(150).png)
+![DASHBOARD 151](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(151).png)
+![DASHBOARD 152](https://github.com/lukreitor/payroll/raw/c9d0390e7c729c0ce458d8d85e92f077346b7908/payroll/Imagens%20do%20Projeto/Captura%20de%20Tela%20(152).png)
 ![APIS](img_2.jpeg)
 
 > Try the app: [TRY_API](https://API.nothosted)
